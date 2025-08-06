@@ -1,0 +1,8 @@
+.prescriptions-section {
+  margin: 2rem 0;
+}
+.prescriptions-section input,
+.prescriptions-section button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}

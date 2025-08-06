@@ -1,0 +1,8 @@
+.bills-section {
+  margin: 2rem 0;
+}
+.bills-section input,
+.bills-section button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
